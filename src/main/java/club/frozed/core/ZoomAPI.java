@@ -1,6 +1,5 @@
-package club.frozed.core.zoomapi;
+package club.frozed.core;
 
-import club.frozed.core.Zoom;
 import club.frozed.core.manager.player.PlayerData;
 import club.frozed.core.manager.player.grants.Grant;
 import club.frozed.core.manager.player.punishments.PunishmentType;
