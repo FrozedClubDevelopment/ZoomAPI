@@ -120,7 +120,7 @@ public class ZoomAPI {
             return Zoom.getInstance().getRankManager().getDefaultRank().getPrefix();
         }
 
-        return playerData.getHighestRank().getPrefix();
+        return playerData.getHighestRank().getPrefix() + " ";
     }
 
     public static ChatColor getRankColor(Player player) {
