@@ -6,7 +6,7 @@
 
     <groupId>club.frozed.core</groupId>
     <artifactId>Zoom-API</artifactId>
-    <version>1.3</version>
+    <version>1.4</version>
     <packaging>jar</packaging>
     <name>Zoom API</name>
     <url>www.frozed.club</url>
@@ -32,11 +32,11 @@
             <scope>provided</scope>
         </dependency>
         <dependency>
-            <groupId>club.frozed.zoom</groupId>
+            <groupId>club.frozed.core</groupId>
             <artifactId>zoom</artifactId>
-            <version>1.3</version>
+            <version>1.0</version>
             <scope>system</scope>
-            <systemPath>C:/Users/Elb1to/Documents/GitHub/FrozedDevelopment/Zoom/target/Zoom-1.3.jar</systemPath>
+            <systemPath>C:/Users/Elb1to/Documents/GitHub/FrozedDevelopment/Zoom/target/Zoom-1.0.jar</systemPath>
         </dependency>
     </dependencies>
 
